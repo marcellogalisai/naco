@@ -1,0 +1,2 @@
+method,inputs,attack_repeats,mean_exit,mean_accuracy,mean_proxy,std_exit,std_accuracy,std_proxy
+pso_jitter,5,5,4.56,1.0,15972921.6,0.5066228051190221,0.0,1681663.4743998772

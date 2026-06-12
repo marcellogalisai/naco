@@ -1,0 +1,2 @@
+method,inputs,attack_repeats,mean_exit,mean_accuracy,mean_proxy,std_exit,std_accuracy,std_proxy
+genetic,5,5,4.8,1.0,16769568.0,0.408248290463863,0.0,1355123.0454341283

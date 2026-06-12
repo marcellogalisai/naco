@@ -1,0 +1,21 @@
+{
+  "exit_macs": [
+    1919392.0,
+    4629216.0,
+    7339360.0,
+    14114080.0,
+    17433440.0
+  ],
+  "exit_macs_millions": [
+    1.919392,
+    4.629216,
+    7.33936,
+    14.11408,
+    17.43344
+  ],
+  "final_exit_macs": 17433440.0,
+  "final_exit_macs_millions": 17.43344,
+  "proxy_type": "dynamic-path multiply-accumulate estimate",
+  "success_threshold_fraction_of_final_exit": 0.995,
+  "unit": "approximate MACs / matrix multiplications"
+}

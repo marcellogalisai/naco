@@ -1,0 +1,2 @@
+method,inputs,attack_repeats,mean_exit,mean_accuracy,mean_proxy,std_exit,std_accuracy,std_proxy
+random,5,5,4.2,1.0,14208723.2,1.1902380714238083,0.0,5061544.371754797

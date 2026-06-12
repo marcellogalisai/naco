@@ -1,0 +1,9 @@
+{
+  "attack_iterations": 200,
+  "attack_particles": 24,
+  "attack_repeats": 5,
+  "query_budget_per_attack": 4800,
+  "reference_method": "pso",
+  "tuning_samples_used_for_wall_clock": 20,
+  "wall_clock_calibration_query_budget": 4800
+}

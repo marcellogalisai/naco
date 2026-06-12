@@ -1,0 +1,5 @@
+{
+  "architecture": "BalancedFiveExitCNN",
+  "model_version": "balanced_five_exit_cnn_mps_v1",
+  "num_exits": 5
+}

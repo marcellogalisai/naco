@@ -1,0 +1,2 @@
+method,inputs,attack_repeats,mean_exit,mean_accuracy,mean_proxy,std_exit,std_accuracy,std_proxy
+clpso,5,5,4.36,1.0,14617977.6,0.8103497187428812,0.0,3965425.822785072

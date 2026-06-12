@@ -1,0 +1,6 @@
+input_id,label,attack_1,attack_2,attack_3,attack_4,attack_5
+4,5,True,True,True,True,True
+6,5,True,True,True,True,True
+8,7,True,True,True,True,True
+11,8,True,True,True,True,True
+13,4,True,True,True,True,True

@@ -1,0 +1,2 @@
+method,inputs,attack_repeats,mean_exit,mean_accuracy,mean_proxy,std_exit,std_accuracy,std_proxy
+apso,5,5,4.64,1.0,16238470.4,0.4898979485566356,0.0,1626147.6545209538

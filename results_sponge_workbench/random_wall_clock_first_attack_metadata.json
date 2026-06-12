@@ -1,0 +1,9 @@
+{
+  "attack_index": 1,
+  "cap_mode": "wall_clock",
+  "input_id": 4,
+  "label": 5,
+  "method": "random",
+  "path": "results_sponge_workbench/artifacts/random_wall_clock_first_attack_image.pt",
+  "source_index": 913
+}

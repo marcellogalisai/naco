@@ -1,0 +1,9 @@
+{
+  "attack_index": 1,
+  "cap_mode": "query",
+  "input_id": 4,
+  "label": 5,
+  "method": "genetic",
+  "path": "results_sponge_workbench/artifacts/genetic_query_first_attack_image.pt",
+  "source_index": 913
+}

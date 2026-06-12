@@ -1,0 +1,16 @@
+stage,mac_proxy
+block1_conv1,112896
+block1_conv2,1806336
+exit1_linear,160
+block2_conv1,903168
+block2_conv2,1806336
+exit2_linear,320
+block3_conv1,903168
+block3_conv2,1806336
+exit3_linear,640
+block4_conv1,2709504
+block4_conv2,4064256
+exit4_linear,960
+block5_conv1,1244160
+block5_conv2,2073600
+exit5_linear,1600
