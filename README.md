@@ -23,7 +23,6 @@ This means the repository already shows concrete system behavior and expected ou
 - `analyze_sponge_statistics.py` — generates  statistical analysis
 - `data/` — dataset directory used by the scripts
 - `results_sponge_workbench/` — sample run outputs already included in the repository
-- `latex/` — paper sources
 
 ## Environment
 
